@@ -7,6 +7,8 @@ frequencies to determine the speed and strength of its visualization.
 Ultimately it reached a terminal point due to limitations of the native
 web audio API. That's OK; it's still fun and cool.
 
+![screenshot of demo where wireframe reacts to sound](static/lightning.PNG)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
